@@ -163,9 +163,9 @@ $(document).ready(function () {
         { src: 'AnhQuaTrinhLam/image13.png', group: 'so-che', tag: 'Phơi ráo thảo mộc', caption: 'Lá ngải cứu và đinh lăng sau khi rửa sạch được hong ráo trên mẹt tre' },
         { src: 'AnhQuaTrinhLam/image14.png', group: 'so-che', tag: 'Phơi ráo tự nhiên', caption: 'Các mẹt thảo mộc tươi sạch được hong dưới nắng nhẹ để giữ trọn tinh dầu' },
         { src: 'AnhQuaTrinhLam/image17.jpeg', group: 'so-che', tag: 'Phân loại & Ghi chép', caption: 'Các thành viên nhóm dự án tỉ mỉ phân loại từng loại lá và ghi chép nhật ký' },
-        { src: 'AnhQuaTrinhLam/image30.png', group: 'so-che', tag: 'Thái nhỏ dược liệu', caption: 'Sơ chế, thái nhỏ lá trà xanh, trầu không và ngải cứu trước khi chiết xuất' },
-        { src: 'AnhQuaTrinhLam/image31.png', group: 'so-che', tag: 'Thiết bị nghiền', caption: 'Máy xay nghiền dược liệu inox công suất cao hỗ trợ làm nhỏ thảo mộc' },
-        { src: 'AnhQuaTrinhLam/image32.jpeg', group: 'so-che', tag: 'Nghiền thảo mộc', caption: 'Thảo mộc được xay nghiền mịn giúp tăng tối đa diện tích tiếp xúc khi nấu cao' },
+        { src: 'AnhQuaTrinhLam/image30.png', group: 'so-che', tag: 'Thái nhỏ dược liệu', caption: 'Thái nhỏ lá trà xanh, trầu không và ngải cứu để đưa vào nấu cao chiết xuất' },
+        { src: 'AnhQuaTrinhLam/image31.png', group: 'so-che', tag: 'Thiết bị nghiền', caption: 'Máy xay nghiền dược liệu inox công suất cao phục vụ làm trà túi lọc ngâm chân' },
+        { src: 'AnhQuaTrinhLam/image32.jpeg', group: 'so-che', tag: 'Nghiền thảo mộc', caption: 'Thảo mộc được nghiền nhỏ để phơi và xay làm trà túi lọc ngâm chân' },
 
         // Nhóm 2: Nấu cao thảo mộc (12 ảnh)
         { src: 'AnhQuaTrinhLam/image9.png', group: 'nau-cao', tag: 'Chuẩn bị nấu cao', caption: 'Kiểm tra nguyên liệu ngải cứu và ghi chép công thức trước khi đưa vào nồi chiết' },
