@@ -90,7 +90,7 @@ $(document).ready(function () {
             labelImg: 'AnhSanPham/30bd6de5-4e9c-4074-a571-affa88e2da86.jfif',
             realImg: 'AnhQuaTrinhLam/image40.jpeg',
             giftImg: 'AnhQuaTang/QuanTangThem2.jpg',
-            ingredients: 'Lá ngải cứu, Lá đinh lăng, Lá trà xanh cô đặc kết hợp Mật ong rừng nguyên chất và Đường mật mía.',
+            ingredients: 'Lá ngải cứu, Lá đinh lăng, Lá trà xanh cô đặc kết hợp mật ong rừng nguyên chất và đường mật mía.',
             benefits: [
                 'Làm dịu nhanh cơn ngứa cổ, đau rát họng và các cơn ho khan.',
                 'Bổ phế, giữ ấm đường hô hấp trong những ngày thu đông giá lạnh vùng cao.',
